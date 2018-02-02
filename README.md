@@ -1,9 +1,6 @@
 # Hans_Rosling_Visualization
 This is a data visualization project similar to Hans Rosling Visualization.
-
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 This text file contains all the features implemented in this replica of the Channeling Hans !
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 - All countries belonging to the same region share the same color.
 - A year label in the background of the bubble chart to understand which data is for which year while the animation is on.
